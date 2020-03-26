@@ -1,0 +1,10 @@
+﻿id,name,xCor,yCor,shortDesc,longDesc,n,e,s,w
+1,Room 1,0,0,Entry,Room 1,4,2,0,0
+2,Room 2,1,0,Hall,Room 2,5,0,0,1
+3,Room 3,2,0,Trophy Room. You found the diamond - now go back to the Entry,Room 3,6,0,0,2
+4,Room 4,0,1,Billiard Room,Room 4,7,5,1,0
+5,Room 5,1,1,Kitchen,Room 5,0,0,2,1
+6,Room 6,2,1,Bedroom,Room 6,9,0,3,0
+7,Room 7,0,2,Bathroom,Room 7,0,8,4,0
+8,Room 8,1,2,Family Room,Room 8,0,9,0,7
+9,Room 9,2,2,Dining Room,Room 9,0,0,6,8
