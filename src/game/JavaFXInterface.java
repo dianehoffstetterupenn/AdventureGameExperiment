@@ -21,8 +21,7 @@ public class JavaFXInterface extends Application {
 	public void initializeGame() {
 		
 		String roomFilename = "rooms9.csv";
-		Rooms rooms = new Rooms();
-		rooms.loadRoomCSV(roomFilename);
+		Rooms rooms = new Rooms(roomFilename);
 		
 		this.currentRoom = rooms.getRoomAtID(1);
 	}
